@@ -13,8 +13,13 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        label.text = "Commit"
+        
+        
+        
+        label.text = "Seconde Commit"
     }
+    
+    
 
 
 }
